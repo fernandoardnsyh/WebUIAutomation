@@ -36,7 +36,7 @@ Feature: Web UI Automation
     Then verify cart item is match "2"
 
   @web
-  Scenario: test login web add to cart
+  Scenario: test login web remove from cart
     Given open web login page
     And user input username "standard_user"
     And user input password "secret_sauce"
