@@ -27,8 +27,8 @@ gradle test
 Documentation
 
 Test Case 
-Scenario: login with normal user
-Scenario: Test login web with lock user
-Scenario: Test login web with invalid user
-Scenario: test login web add to cart
-Scenario: test login web user delete item from cart
+- Scenario: login with normal user
+- Scenario: Test login web with lock user
+- Scenario: Test login web with invalid user
+- Scenario: test login web add to cart
+- Scenario: test login web user delete item from cart
